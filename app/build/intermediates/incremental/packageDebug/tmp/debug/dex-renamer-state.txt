@@ -1,4 +1,4 @@
-#Thu Nov 14 16:41:08 MSK 2019
+#Thu Dec 05 17:40:10 MSK 2019
 base.0=C\:\\Users\\mobile3\\Desktop\\clicker\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
