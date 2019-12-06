@@ -23,10 +23,10 @@
         android:id="@+id/buttonback"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back"
         android:background="@color/backcolor"
+        android:text="Back"
         android:textColor="@color/prilcolor"
-        tools:layout_editor_absoluteX="22dp"
-        tools:layout_editor_absoluteY="661dp"
-        tools:ignore="MissingConstraints" />
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="649dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>

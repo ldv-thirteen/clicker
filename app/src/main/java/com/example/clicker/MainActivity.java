@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
           xbutton.setOnClickListener(new View.OnClickListener() {
               @Override
               public void onClick(View v) {
-                  if (coutm%16 == 0){
+                  if (coutm%17 == 0){
                      scrim();
                   }else {
                       coutm += m;

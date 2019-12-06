@@ -12,7 +12,7 @@
         android:layout_width="400dp"
         android:layout_height="150dp"
 
-        android:layout_marginTop="140dp"
+        android:layout_marginTop="160dp"
         android:background="@color/buttonbackcolor"
         android:text="@string/button"
         android:textColor="@color/buttontextcolor"
